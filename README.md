@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Fagner Moraes.
+## I'm Fagner Moraes. I am a BACK END developer.
 ### Welcome to my Github profile! 👋
 
 ###
