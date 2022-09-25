@@ -1,9 +1,11 @@
 ### Hi there 👋
+### Welcome to my Github profile! 👋
 ## I'm Fagner Moraes. I am a Developer.
 in this github repository you will take a look in my projects...
 I'm using
 <p align="center">
     <a href="#"><img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -14,7 +16,7 @@ I'm using
 </p>
 <hr/>
 
-### Welcome to my Github profile! 👋
+
 
 ###
 
