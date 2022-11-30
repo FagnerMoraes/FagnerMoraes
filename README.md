@@ -21,12 +21,19 @@ I'm using
 
 ###
 
-<div>
+<!--<div>
 <a href="https://github.com/FagnerMoraes">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnermoraes&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagnermoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div>-->
+[![Fagner Moraes 'github stats](https://github-readme-stats.vercel.app/api?username=fagnermoraes&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagnermoraes&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagnermoraes&layout=compact&hide=C%23,Rust,Shell,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+    
+    
+    
 <!--
 **FagnerMoraes/FagnerMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
