@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my Github profile! 👋
-## I'm Fagner Moraes. I am a Developer.
+## I'm Fagner Moraes.
 in this github repository you will take a look in my projects...
 I'm using
 <p align="center">
